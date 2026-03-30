@@ -1,0 +1,14 @@
+export { IconBase } from './IconBase';
+export { Star } from './Star';
+export { Scissors } from './Scissors';
+export { MapPin } from './MapPin';
+export { Clock } from './Clock';
+export { Instagram } from './Instagram';
+export { MessageCircle } from './MessageCircle';
+export { ChevronRight } from './ChevronRight';
+export { CheckCircle } from './CheckCircle';
+export { Users } from './Users';
+export { Award } from './Award';
+export { ThumbsUp } from './ThumbsUp';
+export { Sparkles } from './Sparkles';
+export { Phone } from './Phone';
